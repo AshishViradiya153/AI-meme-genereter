@@ -28,6 +28,6 @@ This is a Next.js web application that generates meme text and images using Open
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AshishViradiya153/meme-generator.git
+   git clone [https://github.com/AshishViradiya153/meme-generator.git](https://github.com/AshishViradiya153/AI-meme-genereter.git)
    cd meme-generator
    ```
